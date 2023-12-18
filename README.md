@@ -1,5 +1,5 @@
 #    ~~ bash_colorpicker: Poor man's color picker
-A simple ANSI color picker who gives you too the equivalent hex color.
+A simple ANSI color picker to be used in bash scripts who gives you too the equivalent hex color.
 
 It allows too entering directly an hex color value and it will display it's nearest equivalent ansi color.
 
