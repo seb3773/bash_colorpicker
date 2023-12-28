@@ -4,3 +4,5 @@ A simple ANSI color picker to be used in bash scripts who gives you too the equi
 It allows too entering directly an hex color value and it will display it's nearest equivalent ansi color.
 
 It was created to be a part of Q4OStools scripts, but maybe can be usefull for you :)
+
+![Alt text](/screenshot.jpg?raw=true "screenshot")
